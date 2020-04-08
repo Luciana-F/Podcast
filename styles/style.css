@@ -122,8 +122,8 @@ html{
     margin-top: 26px;
     height: 536px;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 584px);
+    grid-template-rows: repeat(2, 232px);
     margin-left: 6.94vw;
     margin-right: 6.94vw;
     position: relative;
